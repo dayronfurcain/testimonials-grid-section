@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Testimonials Grid Section](https://your-solution-url.com)
-- Live Site URL: [Testimonials Grid Section](https://your-live-site-url.com)
+- Solution URL: [Testimonials Grid Section](https://github.com/dayronfurcain/testimonials-grid-section)
+- Live Site URL: [Testimonials Grid Section](https://celadon-cuchufli-376fca.netlify.app)
 
 ## My process
 

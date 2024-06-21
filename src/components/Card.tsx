@@ -11,7 +11,8 @@ function Card({ name, image, title, quote }: Props) {
       <div className='flex items-center gap-4'>
         <div className='card__img w-8 h-8 border-2 border-white rounded-full'>
           <img
-            src={image}
+            //src={new URL(`../assets/${image}`, import.meta.url).href}
+            src={`/${image}`}
             alt={image.replace('./src/assets/', '')}
             className='rounded-full'
           />
